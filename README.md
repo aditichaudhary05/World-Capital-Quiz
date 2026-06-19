@@ -36,7 +36,8 @@ A full-stack web application that tests users' knowledge of world capitals. The 
 3. The application checks whether the answer is correct.
 4. If correct, the score increases.
 5. The next question is displayed automatically.
-6. The process continues until the user decides to stop.
+6. The process continues until the user enters the wrong answer.
+7. User can restart the quiz.
 
 ## Database Structure
 
