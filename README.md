@@ -89,7 +89,6 @@ http://localhost:3000
 
 ## Screenshots
 
-Add screenshots of:
 ![World Capital Quiz](screenshot.png)
 
 ## Learning Outcomes
